@@ -9,4 +9,4 @@
 
 ## Cấu trúc thư mục nộp bài
 - **TaiLieu/**: Báo cáo mô tả chi tiết bài tập, giải thích các hàm và hình ảnh kết quả chạy (Output).
-- **SourceCode/**: Toàn bộ mã nguồn dự án Android Studio (Jetpack Compose).![alt text](image.png)
+- **SourceCode/**: Toàn bộ mã nguồn dự án Android Studio (Jetpack Compose).
